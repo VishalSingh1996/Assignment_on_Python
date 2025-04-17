@@ -7,5 +7,8 @@ This Python script checks the strength of a user's password based on the followi
 - Contains at least one special character
 
 ## How to Run
-```bash
 python password_checker.py
+
+# For backup.py file
+run this 
+python backup.py source_folder backup_folder
